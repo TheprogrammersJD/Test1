@@ -2,8 +2,12 @@
   "name": "Multiplayer Tic Tac Toe",
   "version": "0.0.1",
   "description": "Tic Tac Toe is more fun with 'Freds'",
+  "scripts": {
+	"start": "node index.js"
+  },
   "dependencies": {
     "express": "^4.15.2",
     "socket.io": "^2.1.0"
   }
 }
+
